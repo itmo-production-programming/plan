@@ -6,6 +6,11 @@
 - Написать базу tg бота с основными запросами к backend
 - Добавить Unit-тесты
 
+Branches in process
+- [telegram-bot](https://github.com/itmo-production-programming/python-services/tree/feature/telegram-bot)
+- [authentication-dev](https://github.com/itmo-production-programming/task-api/tree/authentication-dev)
+- [tasks-dev](https://github.com/itmo-production-programming/task-api/tree/tasks-dev)
+
 Дедлайн 17.05
 - Увеличить возможности tg бота
 - Разработать сервис нотификации (мониторинга)
